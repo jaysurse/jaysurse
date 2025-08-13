@@ -1,6 +1,16 @@
-<!-- Profile Header -->
+<!-- Option A: Animated Typing (SVG, lightweight) -->
+<!-- Waving Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Jay%20Surse&fontAlign=50&fontAlignY=35&color=0:1e3a8a,100:14b8a6&section=header&fontColor=ffffff&animation=twinkling" alt="Waving Header"/>
+</p>
+
+<!-- Name & Typing Animation -->
 <h1 align="center">Hi 👋, I'm Jay Surse</h1>
-<h3 align="center">🚀 Passionate Frontend Developer | 🌏 From India</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=500&lines=🚀+Passionate+Frontend+Developer;💻+Coding+Enthusiast;🌏+From+India" alt="Typing SVG" />
+  </a>
+</p>
 
 <!-- Badges -->
 <p align="center">
